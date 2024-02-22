@@ -1,0 +1,28 @@
+_repo: L-onorevole_72956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bizzoni, Achille
+    gutenberg_agent_id: '56882'
+    url: http://www.gutenberg.org/2009/agents/56882
+description: ''
+gutenberg_issued: '2024-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72956'
+language: it
+pgterms:marc904: http://www.braidense.it/dire/onorevole1.pdf
+pgterms:marc905: 20230104043544bizzoni
+pgterms:marc906: '1896'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bSonzogno, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'onorevole
+url: http://www.gutenberg.org/ebooks/72956
